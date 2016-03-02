@@ -1,3 +1,4 @@
 # hello-git
 my first try
-Hi, I'm new.=_=
+Hi, my friends.
+I'm new.=_=
